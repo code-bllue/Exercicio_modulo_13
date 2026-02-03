@@ -1,5 +1,3 @@
-# analise_supermecado
-Análise de Descontos e Preços por Categoria da Base de Supermecado
 # analise_supermercado
 Análise de Descontos e Preços por Categoria da Base de Supermercado
 
